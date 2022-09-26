@@ -20,3 +20,4 @@ function calculate(e){
         display.value += clickvalue
      )
 }
+
