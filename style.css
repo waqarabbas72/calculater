@@ -21,7 +21,7 @@
   padding-bottom: 15px;
   border-radius: 7px;
   background-color: rgb(24, 22, 22);
-  box-shadow: 6px 9px 9px 1px rgba(0, 0, 0, 0.61);
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 }
 /* calculator style end */
 
@@ -53,7 +53,7 @@
 button {
   width: 80px;
   height: 50px;
-  border-radius: 10%;
+  border-radius: 20%;
   border: none;
   outline: none;
   font-size: 1.5rem;
